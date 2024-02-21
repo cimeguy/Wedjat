@@ -1,0 +1,167 @@
+2023-05-15 17:01:37  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2023-05-15 17:01:54  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2023-05-15 17:02:20  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2023-05-15 17:02:33  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2023-05-15 17:05:46  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2023-05-15 17:05:50  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2023-05-15 17:07:03  DEBUG     Msg: |BagMngr「bag&db」| has no logger, use default logger
+2024-01-18 05:50:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:50:27  INFO      Msg: : find 1560 files
+2024-01-18 05:50:47  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:50:47  INFO      Msg: : find 61 files
+2024-01-18 05:51:22  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:51:22  INFO      Msg: : find 61 files
+2024-01-18 05:51:22  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:51:22  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:51:22  INFO      Msg: : find 1499 files
+2024-01-18 05:51:22  INFO      Msg: : find 1499 files
+2024-01-18 05:51:54  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:51:55  INFO      Msg: : find 111702 files
+2024-01-18 05:51:55  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:51:55  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:51:55  INFO      Msg: : find 1499 files
+2024-01-18 05:51:55  INFO      Msg: : find 1499 files
+2024-01-18 05:52:15  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:52:16  INFO      Msg: : find 111702 files
+2024-01-18 05:52:16  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:52:16  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:52:16  INFO      Msg: : find 1499 files
+2024-01-18 05:52:16  INFO      Msg: : find 1499 files
+2024-01-18 05:59:34  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:59:35  INFO      Msg: : find 111702 files
+2024-01-18 05:59:35  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:59:35  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 05:59:35  INFO      Msg: : find 1499 files
+2024-01-18 05:59:35  INFO      Msg: : find 1499 files
+2024-01-18 06:11:06  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:11:07  INFO      Msg: : find 111702 files
+2024-01-18 06:11:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:11:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:11:07  INFO      Msg: : find 1499 files
+2024-01-18 06:11:07  INFO      Msg: : find 1499 files
+2024-01-18 06:12:09  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:12:10  INFO      Msg: : find 111702 files
+2024-01-18 06:12:10  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:12:10  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:12:10  INFO      Msg: : find 1499 files
+2024-01-18 06:12:10  INFO      Msg: : find 1499 files
+2024-01-18 06:12:15  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:12:15  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:12:15  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:12:16  INFO      Msg: : find 111702 files
+2024-01-18 06:12:16  INFO      Msg: : find 111702 files
+2024-01-18 06:12:16  INFO      Msg: : find 111702 files
+2024-01-18 06:13:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:13:45  INFO      Msg: : find 111702 files
+2024-01-18 06:13:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:13:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:13:45  INFO      Msg: : find 1499 files
+2024-01-18 06:13:45  INFO      Msg: : find 1499 files
+2024-01-18 06:13:52  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:13:52  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:13:52  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:13:53  INFO      Msg: : find 111702 files
+2024-01-18 06:13:53  INFO      Msg: : find 111702 files
+2024-01-18 06:13:53  INFO      Msg: : find 111702 files
+2024-01-18 06:14:08  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:09  INFO      Msg: : find 111702 files
+2024-01-18 06:14:09  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:09  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:09  INFO      Msg: : find 1499 files
+2024-01-18 06:14:09  INFO      Msg: : find 1499 files
+2024-01-18 06:14:18  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:18  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:18  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:18  INFO      Msg: : find 111702 files
+2024-01-18 06:14:18  INFO      Msg: : find 111702 files
+2024-01-18 06:14:18  INFO      Msg: : find 111702 files
+2024-01-18 06:14:19  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:19  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:19  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:19  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:20  INFO      Msg: : find 1000 files
+2024-01-18 06:14:20  INFO      Msg: : find 1000 files
+2024-01-18 06:14:20  INFO      Msg: : find 1000 files
+2024-01-18 06:14:20  INFO      Msg: : find 1000 files
+2024-01-18 06:14:20  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:20  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:20  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:20  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:20  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:14:21  INFO      Msg: : find 200 files
+2024-01-18 06:14:21  INFO      Msg: : find 200 files
+2024-01-18 06:14:21  INFO      Msg: : find 200 files
+2024-01-18 06:14:21  INFO      Msg: : find 200 files
+2024-01-18 06:14:21  INFO      Msg: : find 200 files
+2024-01-18 06:15:37  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:38  INFO      Msg: : find 111702 files
+2024-01-18 06:15:38  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:38  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:38  INFO      Msg: : find 1499 files
+2024-01-18 06:15:38  INFO      Msg: : find 1499 files
+2024-01-18 06:15:43  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:43  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:43  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:44  INFO      Msg: : find 111702 files
+2024-01-18 06:15:44  INFO      Msg: : find 111702 files
+2024-01-18 06:15:44  INFO      Msg: : find 111702 files
+2024-01-18 06:15:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:45  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:45  INFO      Msg: : find 1000 files
+2024-01-18 06:15:45  INFO      Msg: : find 1000 files
+2024-01-18 06:15:45  INFO      Msg: : find 1000 files
+2024-01-18 06:15:45  INFO      Msg: : find 1000 files
+2024-01-18 06:15:46  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:46  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:46  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:46  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:46  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:15:47  INFO      Msg: : find 200 files
+2024-01-18 06:15:47  INFO      Msg: : find 200 files
+2024-01-18 06:15:47  INFO      Msg: : find 200 files
+2024-01-18 06:15:47  INFO      Msg: : find 200 files
+2024-01-18 06:15:47  INFO      Msg: : find 200 files
+2024-01-18 06:16:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:16:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:16:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:16:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:16:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:16:07  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:16:11  INFO      Msg: : find 1499 files
+2024-01-18 06:16:11  INFO      Msg: : find 1499 files
+2024-01-18 06:16:11  INFO      Msg: : find 1499 files
+2024-01-18 06:16:11  INFO      Msg: : find 1499 files
+2024-01-18 06:16:11  INFO      Msg: : find 1499 files
+2024-01-18 06:16:11  INFO      Msg: : find 1499 files
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:28  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:25:47  INFO      Msg: : find 1000 files
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:26:27  DEBUG     Msg: ｜ReadFile｜ has no logger, use default logger
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
+2024-01-18 06:27:43  INFO      Msg: : find 200 files
