@@ -1,4 +1,4 @@
-Wedjat © 2025 by Li Gao is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
+
 
 
 datasets:pcap数据文件，下一层目录按照数据集名划分，再下一层按照黑白样本划分    
